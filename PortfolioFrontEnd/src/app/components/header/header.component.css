@@ -1,14 +1,9 @@
 .header{
     background-color: rgb(2, 2, 121);
     color: white;
-    height: 100px;
-    display: flex;
-    justify-content: space-between;
-
-    align-items: center;
-    padding-left: 10px;
 }
 
 app-socials{
-    
+    float: right;
+
 }

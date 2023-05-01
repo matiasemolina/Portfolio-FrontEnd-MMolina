@@ -6,13 +6,15 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ArgProgramaComponent } from './components/arg-programa/arg-programa.component';
 import { HeaderComponent } from './components/header/header.component';
 import { SocialsComponent } from './components/socials/socials.component';
+import { BannerComponent } from './components/banner/banner.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ArgProgramaComponent,
     HeaderComponent,
-    SocialsComponent
+    SocialsComponent,
+    BannerComponent
   ],
   imports: [
     BrowserModule,
